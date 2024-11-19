@@ -17,9 +17,6 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 ## PROGRAM - ARP
 ```
-Developed by: RISHI CHANDRAN R
-Reg no: 212223043005
-
 client:
 
 import socket 
