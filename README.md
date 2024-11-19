@@ -18,7 +18,6 @@ stored.
 
 ## PROGRAM - RARP
 ```
-
 client:
 import socket 
 s=socket.socket() 
